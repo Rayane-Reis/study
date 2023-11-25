@@ -1,1 +1,1 @@
-Nesse repositório, mantenho todos arquivos que considero importante de estudos java script (com explicações durante o código), podendo ajudar quem também está iniciando o aprendizado, além de ter alguns projetos para praticar 
+Nesse repositório, mantenho todos arquivos importante para o estudos em java script (com explicações durante o código), pajudando quem também está iniciando o aprendizado, além de conter alguns projetos para praticar 
